@@ -92,6 +92,10 @@ venv\Scripts\activate
 
 ## Data Quality Checks
 
+### Metrics for measuring data quality in data warehouses
+
+![ Metrics for measuring data quality in data warehouses](./reftable.png)
+
 The following checks are run on the dataset:
 
 1. **Missing Values**: Identifies any empty or null values.
