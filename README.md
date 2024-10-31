@@ -2,6 +2,9 @@
 
 Data Quality Checker is a Python-based GUI application designed to help users evaluate the quality of data in CSV files by running a series of data validation checks. It provides insights into various data quality metrics, such as missing values, duplicate records, date format consistency, and more, making it easier to identify issues that may affect data reliability and integrity.
 
+`dataqualitychecker.py` works only with Netflix
+`appver2.py` general dynamic any table
+
 ## Why This Application Exists
 
 Data quality is a critical aspect of data management, especially as datasets grow in size and complexity. Inconsistent, incomplete, or inaccurate data can lead to incorrect analyses, poor decision-making, and overall inefficiency. The Data Quality Checker app was built to streamline the process of identifying data quality issues, allowing users to:
